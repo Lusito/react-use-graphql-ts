@@ -1,0 +1,18 @@
+title: react-use-graphql-ts
+description: A mocking toolkit leveraging the power of TypeScript to enhance your jest experience.
+base: '/react-use-graphql-ts/'
+themeConfig:
+  nav:
+  - link: 'https://github.com/lusito/react-use-graphql-ts'
+    text: Github
+  - link: 'https://www.npmjs.com/package/react-use-graphql-ts'
+    text: NPM
+  sidebar:
+  - '/setup'
+  - '/query'
+  - '/hook'
+  - '/config'
+  displayAllHeaders: true
+plugins:
+- fulltext-search
+  
