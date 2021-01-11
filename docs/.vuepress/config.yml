@@ -1,5 +1,5 @@
 title: react-use-graphql-ts
-description: A mocking toolkit leveraging the power of TypeScript to enhance your jest experience.
+description: A lightweight, type-safe graphql hook for react, written in TypeScript.
 base: '/react-use-graphql-ts/'
 themeConfig:
   nav:
