@@ -1,4 +1,8 @@
-# react-use-graphql-ts
+# Deprecated
+
+**WARNING:** This project has moved to [@react-nano/use-graphql](https://github.com/lusito/react-nano)
+
+## react-use-graphql-ts
 
 [![Minified + gzipped size](https://badgen.net/bundlephobia/minzip/react-use-graphql-ts)](https://www.npmjs.com/package/react-use-graphql-ts)
 [![NPM version](https://badgen.net/npm/v/react-use-graphql-ts)](https://www.npmjs.com/package/react-use-graphql-ts)
